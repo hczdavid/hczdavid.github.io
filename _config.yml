@@ -82,7 +82,7 @@ atom_feed:
 author:
   name             : "David Huang"
   avatar           : "davidhuang.jpg"
-  bio              : "5th year Ph.D. Candidate in Bioinformatics and Biostatistics at NC State Unvierysity"
+  bio              : "5th year Ph.D. Candidate in Bioinformatics and Biostatistics at NC State University"
   location         : "Raleigh, North Carolina"
   employer         :
   #Cpubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
