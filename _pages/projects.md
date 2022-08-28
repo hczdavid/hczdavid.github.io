@@ -11,4 +11,5 @@ My first project: testing
 
 
 
-![p1](http://hczdavid.github.io/images/davidhuang.jpg  =250x "Project1")
+<img src="http://hczdavid.github.io/images/davidhuang.jpg" alt="projects" width="100"/>
+
