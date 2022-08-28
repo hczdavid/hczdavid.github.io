@@ -23,7 +23,7 @@ With solid scientific writing and presentation training (Publication and Present
 
 
   * Soft skills:
-    * strong writing and communication using both in technical and non-technical language.
+    * strong writing/communication using technical and non-technical language.
     * productive teamwork
     * proactive leadership
     * efficient time and task management
