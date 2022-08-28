@@ -6,19 +6,14 @@ main:
     url: /projects/     
     
   - title: "Tools"
-    url: /teaching/    
+    url: /tools/    
     
-  # - title: "Portfolio"
-  #   url: /portfolio/
-  
   - title: "Publications"
     url: /publications/
         
   - title: "Personal"
-    url: /year-archive/
+    url: /personal/
     
   - title: "CV"
     url: /cv/
     
-  # - title: "Guide"
-  #   url: /markdown/
