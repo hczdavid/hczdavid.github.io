@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my personal website!"
+title: "Welcome"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,5 +8,30 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my home page! My name is Caizhi David Huang. Currently I am a 5th year Ph.D. Candidate in Bioinformatics with research focusing on statistical genetics. 
+My name is Caizhi David Huang. Currently I am a 5th year Ph.D. Candidate (expected graduation: 2023 Spring) in Bioinformatics (focusing on statistical genetics) co-advised by [Dr. Jung-Ying Tzeng](https://www4.stat.ncsu.edu/~jytzeng/) and [Dr. Benjamin Callahan](https://callahanlab.cvm.ncsu.edu/team/) at NC State University. My dissertation focuses on microbiome data analysis (See the projects for details). During my Ph.D. study, I also obtained Master of Statistics (concentrated on Biostatistics) with statistics PhD-level project and course training. My undergradate degree is in Bioengineering (focus on microbiology).
+
+In microbiome research, the communication among biologist, bioinformatician and statistician often challenged by different research focus and interest. My unique background and training (combination of biology, bioinformatics and statistics) provides me the capability to perform comprehensive statistical research and analysis with the perspective of biologist and bioinformatician.
+
+With solid scientific writing and presentation training (Publication and Presentation), productive industry summer internship experiences (CV), I am equipped with multiple transferable skills:
+
+  * Technical skills:
+    * statistical modeling and interpretation
+    * machine learning and deep learning
+    * Tool development including R package and Shiny app
+    * strong programming skills using R, Python and SAS
+    * data visualization
+
+
+  * Soft skills:
+    * strong writing and communication using both in technical and non-technical language.
+    * productive teamwork
+    * proactive leadership
+    * efficient time and task management
+
+
+
+
+
+
+
 
