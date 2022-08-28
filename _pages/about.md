@@ -17,10 +17,9 @@ With solid scientific writing and presentation training (Publication and Present
   * Technical skills:
     * statistical modeling and interpretation
     * machine learning and deep learning
-    * Tool development including R package and Shiny app
+    * tool development including R package and Shiny app
     * strong programming skills using R, Python and SAS
     * data visualization
-
 
   * Soft skills:
     * strong writing/communication using technical and non-technical language.
