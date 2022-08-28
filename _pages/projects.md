@@ -16,7 +16,7 @@ redirect_from:
 **Conclusions**: Using POST, we show that adaptively leveraging the phylogenetic information can enhance the selection performance of associated microbiome features by improving the overall true positive and false positive detection. We developed a user-friendly R package [POSTm](https://cran.r-project.org/web/packages/POSTm/index.html) which is freely available on CRAN.
 
 
-<img src="http://hczdavid.github.io/images/project1.png" alt="projects" width="300"/>
+<img src="http://hczdavid.github.io/images/project1.png" alt="projects" width="1000"/>
 
 
 
