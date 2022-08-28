@@ -11,4 +11,4 @@ My first project: testing
 
 
 
-![ ](http://hczdavid.github.io/images/davidhuang.jpg "Project1" =250x)
+![ ](http://hczdavid.github.io/images/davidhuang.jpg  =250x "Project1")
