@@ -7,7 +7,7 @@ redirect_from:
   - /projects
 ---
 
-Project 1: Phylogeny-guided Microbiome OTU-specific Association Test ([Paper](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01266-3); [Poster](http://hczdavid.github.io/files/JSM_post.pdf))
+## Project 1: Phylogeny-guided Microbiome OTU-specific Association Test ([Paper](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01266-3); [Poster](http://hczdavid.github.io/files/JSM_post.pdf))
 
 **Background**: The relationship between host conditions and microbiome profiles, typically characterized by operational taxonomic units (OTUs), contains important information about the microbial role in human health. Traditional association testing frameworks are challenged by the high-dimensionality, sparsity and compositionality of typical microbiome profiles.
 
@@ -16,7 +16,7 @@ Project 1: Phylogeny-guided Microbiome OTU-specific Association Test ([Paper](ht
 **Conclusions**: Using POST, we show that adaptively leveraging the phylogenetic information can enhance the selection performance of associated microbiome features by improving the overall true positive and false positive detection. We developed a user-friendly R package [POSTm](https://cran.r-project.org/web/packages/POSTm/index.html) which is freely available on CRAN.
 
 
-<img src="http://hczdavid.github.io/images/project1.jpg" alt="projects" width="300"/>
+<img src="http://hczdavid.github.io/images/project1.png" alt="projects" width="300"/>
 
 
 
