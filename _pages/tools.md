@@ -7,5 +7,13 @@ redirect_from:
   - /resume
 ---
 
-Will list my R package and R shiny app here.
+* POST R package
+* CDSeq R package
+* VSARgraph R package/Shiny app
+* Loan calculator R Shiny app
+* Bio-Discovery R Shiny app
+* Automation of filling interactive PDF Shiny app
+
+
+
 
