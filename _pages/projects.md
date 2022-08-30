@@ -16,7 +16,7 @@ redirect_from:
 <img src="http://hczdavid.github.io/images/sum_plot.png" alt="projects" width="400"/>
 
 
-### [Project 3: Identification of Contaminant Using Hypothesis Testing in Marker Gene and Metagenomics Data](http://hczdavid.github.io/projects/project3) (; [Poster](http://hczdavid.github.io/files/tcontam.pdf))
+### [Project 3: Identification of Contaminant Using Hypothesis Testing in Marker Gene and Metagenomics Data](http://hczdavid.github.io/projects/project3) ([Poster](http://hczdavid.github.io/files/tcontam.pdf))
 
 <img src="http://hczdavid.github.io/images/tcontam.png" alt="projects" width="400"/>
 

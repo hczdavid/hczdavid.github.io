@@ -5,7 +5,7 @@ permalink: /projects/project3
 author_profile: true
 ---
 
-## Project 3: Identification of Contaminant Using Hypothesis Testing in Marker Gene and Metagenomics Data (; [Poster](http://hczdavid.github.io/files/tcontam.pdf))
+## Project 3: Identification of Contaminant Using Hypothesis Testing in Marker Gene and Metagenomics Data ([Poster](http://hczdavid.github.io/files/tcontam.pdf))
 
 **Background**: The measurement of microbial community suffers from contaminant DNA sequences that are not truly present in the sample. Decontam has been introduced to identify contaminant sequences using a classification procedure based on a pattern that contaminant appears high frequencies in low-concentration samples. However, it has no false discovery rate control, and clear guidance is missing to help users choose an interpretable threshold. 
 
