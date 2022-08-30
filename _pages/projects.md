@@ -29,12 +29,12 @@ redirect_from:
 
 ## Other projects:
 
-  * Terrain Identification from IMU Streams using an Recurrent Neural Network
-  * Longitudinal Analysis of the PATH data set reveals the Effect of the Electric Cigarette
-  * Identifying Clinical Parameters that are Associated with The Severity of COVID-19 Infection
-  * Accelerating Biological Discovery by Multi-Omics-Based Analysis
-  * A Pseudo-value Approach to Compare Different Generations of Multivalent Vaccines
-  * Analysis of Longitudinal Clinical Trial Studies of Diladopram Treatment for Depression in the Elderly
+  * Terrain identification from IMU streams using an recurrent neural network
+  * Investigate the effect of the electric cigarette using PATH longitudinal data set 
+  * Identifying clinical parameters that are associated with the severity of COVID-19 infection
+  * Accelerating biological discovery by multi-omics-based analysis
+  * A pseudo-value approach to compare different generations of multivalent vaccines
+  * Analysis of longitudinal clinical trial studies of diladopram treatment for depression in the elderly
 
   
   
