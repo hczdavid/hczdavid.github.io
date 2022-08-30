@@ -4,7 +4,7 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
-  - /projects
+  - /project1.html
 ---
 
 ## Project 1: Phylogeny-guided Microbiome OTU-specific Association Test ([Paper](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01266-3); [Poster](http://hczdavid.github.io/files/JSM_post.pdf))
