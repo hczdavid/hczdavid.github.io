@@ -27,3 +27,22 @@ redirect_from:
 
 
 
+## Other projects:
+
+  * Terrain Identification from IMU Streams using an Recurrent Neural Network
+  * Longitudinal Analysis of the PATH data set reveals the Effect of the Electric Cigarette
+  * Identifying Clinical Parameters that are Associated with The Severity of COVID-19 Infection
+  * Accelerating Biological Discovery by Multi-Omics-Based Analysis
+  * A Pseudo-value Approach to Compare Different Generations of Multivalent Vaccines
+  * Analysis of Longitudinal Clinical Trial Studies of Diladopram Treatment for Depression in the Elderly
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
