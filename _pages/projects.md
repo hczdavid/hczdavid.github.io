@@ -21,9 +21,9 @@ redirect_from:
 <img src="http://hczdavid.github.io/images/tcontam.png" alt="projects" width="400"/>
 
 
+## [Project 4: CDSeqR: Fast Complete Deconvolution for Gene Expression Data from Bulk Tissues](http://hczdavid.github.io/projects/project4) ([Paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04186-5); [Github](https://github.com/hczdavid/CDSeq))
 
-
-
+<img src="http://hczdavid.github.io/images/cdseq.png" alt="projects" width="400"/>
 
 
 
