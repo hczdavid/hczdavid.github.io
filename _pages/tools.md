@@ -15,7 +15,7 @@ redirect_from:
 
 * The CDSeq implements a complete deconvolution method (CDSeq) using bulk RNA-seq data. Simply put, CDSeq takes bulk RNA-Seq read counts data as input and estimates the cell-type-specific gene expression profiles (csGEPs) and sample-specific cell-type proportions (SSP) simultaneously. (Please install from Github)
 
-### Other tools
+## Other tools
 
 **VSARgraph R package/Shiny app ([Github](https://github.com/hczdavid/ImmunoGraph))**
 
@@ -37,6 +37,6 @@ redirect_from:
 
 **Automation of filling interactive PDF Shiny app ([Github](https://github.com/hczdavid/fillPDF))**
 
-
+* This app is used to automatically grab the information from an Excel file and then use the needed information to fill an interactive PDF file.
 
 
