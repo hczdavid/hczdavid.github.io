@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "Welcome"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+## Welcome
 
 My name is Caizhi David Huang. Currently I am a 5th year Ph.D. Candidate (expected graduation: 2023 Spring) in Bioinformatics (focusing on statistical genetics) co-advised by [Dr. Jung-Ying Tzeng](https://www4.stat.ncsu.edu/~jytzeng/) and [Dr. Benjamin Callahan](https://callahanlab.cvm.ncsu.edu/team/) at NC State University. My dissertation focuses on microbiome data analysis (See the projects for details). During my Ph.D. study, I also obtained Master of Statistics (concentrated on Biostatistics) with statistics PhD-level project and course training. My undergradate degree is in Bioengineering (focus on microbiology).
 
