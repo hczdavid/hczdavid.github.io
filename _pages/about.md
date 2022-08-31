@@ -13,7 +13,7 @@ My name is Caizhi David Huang. Currently I am a 5th year Ph.D. Candidate (expect
 In microbiome research, the communication among biologist, bioinformatician and statistician often challenged by different research focuses and interests. My unique background and training (combination of biology, bioinformatics and statistics) provides me the capability to perform comprehensive statistical research and analysis with the perspective of biologist and bioinformatician.
 
 With solid scientific writing and presentation training (Publication and Presentation), productive industry summer internship experiences ([CV](http://hczdavid.github.io/files/DavidHuangResume.pdf)), I am equipped with multiple transferable skills:
-
+```text
   * Technical skills:
     * statistical modeling and interpretation
     * machine learning and deep learning
@@ -27,7 +27,7 @@ With solid scientific writing and presentation training (Publication and Present
     * proactive leadership
     * efficient time and task management
 
-
+```
 
 
 
