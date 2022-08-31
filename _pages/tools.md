@@ -24,7 +24,13 @@ redirect_from:
 
 * This Bio-Discovery Shiny app can be used to perform the following analyses: (1) differential abundance analysis; (2) functional connection; (3) material connection; (4) exploration of data pattern; (5) phenotypic outcome prediction with a machine learning model.  
 
-### Loan calculator R Shiny app
+### Loan calculator R Shiny app ([Github](https://github.com/hczdavid/LoanCalculator);[App](https://davidnadia.shinyapps.io/mortgage_calculator/); [Slides](http://hczdavid.github.io/files/loan.pdf))
+
+* Our calculator provides functions/tools to answer the following questions: 
+  * How much I need to pay monthly (interest and principle) given loan amount, interest rate and loan term? (Original Loan)
+  * How much interest I can save from my original loan with current principal balance, new interest rate and new term? (Refinance)
+  * How much interest and time I can save from my original loan with a Lump-Sum payment? (Lump-Sum Payment)
+  * How much interest and time I can save from my original loan with additional monthly payment? (Additional Monthly Payment)
 
 
 ### Automation of filling interactive PDF Shiny app
