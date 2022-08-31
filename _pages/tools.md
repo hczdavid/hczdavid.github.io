@@ -13,9 +13,13 @@ POSTm R package ([CRAN](https://CRAN.R-project.org/package=POSTm); [Github](http
 
 CDSeq R package ([CRAN](https://CRAN.R-project.org/package=CDSeq); [Github](https://github.com/kkang7/CDSeq_R_Package); [Example](https://github.com/hczdavid/CDSeq))
 
-* CDSeq is a complete deconvolution method using sequencing data. Simply put, CDSeq takes bulk RNA-Seq read counts data as input and estimates the cell-type-specific gene expression profiles (csGEPs) and sample-specific cell-type proportions (SSP) simultaneously. (Please install from Github)
+* The CDSeq implements a complete deconvolution method (CDSeq) using bulk RNA-seq data. Simply put, CDSeq takes bulk RNA-Seq read counts data as input and estimates the cell-type-specific gene expression profiles (csGEPs) and sample-specific cell-type proportions (SSP) simultaneously. (Please install from Github)
 
-* VSARgraph R package/Shiny app
+VSARgraph R package/Shiny app
+
+* VSARgraph R pacakge is designed to draw RCDC and forest plot, which are commonly used to visualize the immunogenecity results. The R function “makeForest” in “VSARgraph” package is designed to support multi-block (e.g. top and bottom blocks) and multi-panel (e.g. more than one dataset) forest plot. Users can input multiple datasets and choose up to 2 blocks for each dataset. The data table attached to the right of the forest plot can be turned on or turned off. Three steps are included to make a final forest graph. The R function “makeRCDC” in the package is the designed to support multi-panel (e.g. multiple serotypes) RCDC plot. Users can define the by variable to determine how many step lines will be drawn in one plot and define the filter variable to determine what data is used. R package “ggplot2” is used to draw Lower connection step plot.
+
+
 * Loan calculator R Shiny app
 * Bio-Discovery R Shiny app
 * Automation of filling interactive PDF Shiny app
