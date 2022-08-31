@@ -17,26 +17,25 @@ redirect_from:
 
 ### Other tools
 
-#### VSARgraph R package/Shiny app ([Github](https://github.com/hczdavid/ImmunoGraph))
+**VSARgraph R package/Shiny app ([Github](https://github.com/hczdavid/ImmunoGraph))**
 
 * VSARgraph R pacakge is designed to draw RCDC and forest plot, which are commonly used to visualize the immunogenecity results. The R function “makeForest” in “VSARgraph” package is designed to support multi-block (e.g. top and bottom blocks) and multi-panel (e.g. more than one dataset) forest plot. Users can input multiple datasets and choose up to 2 blocks for each dataset. The data table attached to the right of the forest plot can be turned on or turned off. Three steps are included to make a final forest graph. The R function “makeRCDC” in the package is the designed to support multi-panel (e.g. multiple serotypes) RCDC plot. Users can define the by variable to determine how many step lines will be drawn in one plot and define the filter variable to determine what data is used. R package “ggplot2” is used to draw Lower connection step plot.
 
 
-#### Bio-Discovery R Shiny app ([Github](https://github.com/hczdavid/biodiscovery))
+**Bio-Discovery R Shiny app ([Github](https://github.com/hczdavid/biodiscovery))**
 
 * This Bio-Discovery Shiny app can be used to perform the following analyses: (1) differential abundance analysis; (2) functional connection; (3) material connection; (4) exploration of data pattern; (5) phenotypic outcome prediction with a machine learning model.  
 
-#### Loan calculator R Shiny app ([Github](https://github.com/hczdavid/LoanCalculator);[App](https://davidnadia.shinyapps.io/mortgage_calculator/); [Slides](http://hczdavid.github.io/files/loan.pdf))
+**Loan calculator R Shiny app ([Github](https://github.com/hczdavid/LoanCalculator);[App](https://davidnadia.shinyapps.io/mortgage_calculator/); [Slides](http://hczdavid.github.io/files/loan.pdf))**
 
 * Our calculator provides functions/tools to answer the following questions: 
-  * <span style="font-size:2em;">How much I need to pay monthly (interest and principle) given loan amount, interest rate and loan term? (Original Loan)</span>
+  * <span style="font-size:0.5em;">How much I need to pay monthly (interest and principle) given loan amount, interest rate and loan term? (Original Loan)</span>
   * How much interest I can save from my original loan with current principal balance, new interest rate and new term? (Refinance)
   * How much interest and time I can save from my original loan with a Lump-Sum payment? (Lump-Sum Payment)
   * How much interest and time I can save from my original loan with additional monthly payment? (Additional Monthly Payment)
 
 
-
-#### Automation of filling interactive PDF Shiny app
+**Automation of filling interactive PDF Shiny app ([Github](https://github.com/hczdavid/fillPDF))**
 
 
 
