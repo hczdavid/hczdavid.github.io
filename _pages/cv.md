@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-My recent CV can be found [here](http://hczdavid.github.io/files/DavidHuangResume.pdf). Thank you!
+My recent CV can be found [here](http://hczdavid.github.io/files/DavidHuangResume.pdf).
 
