@@ -8,7 +8,7 @@ author_profile: true
 Please visit my [Google Scholar](https://scholar.google.com/citations?user=UwKQbYcAAAAJ&hl=en) for the full list.
 
 
-1. **Huang, Caizhi**, Craig Gin, Jennifer Fettweis, Betsy Foxman, Bizu Gelaye, David A. Maclntyre, Alila Subramaniam, William Fraser, Negar Tabatabaei, and Benjamin J. Callahan. "Meta-analysis reveals the vaginal microbiome is a better predictor of earlier than later preterm birth." (Submitted; Preprint)
+1. **Huang, Caizhi**, Craig Gin, Jennifer Fettweis, Betsy Foxman, Bizu Gelaye, David A. Maclntyre, Alila Subramaniam, William Fraser, Negar Tabatabaei, and Benjamin J. Callahan. "Meta-analysis reveals the vaginal microbiome is a better predictor of earlier than later preterm birth." (Submitted; [Preprint](https://www.medrxiv.org/content/10.1101/2022.09.26.22280389v1))
 2. **Huang, Caizhi**, Benjamin J. Callahan, Michael C. Wu, Shannon T. Holloway, Hayden Brochu, Wenbin Lu, Xinxia Peng, and Jung-Ying Tzeng. "Phylogeny-guided microbiome OTU-specific association test (POST)." Microbiome 10, no. 1 (2022): 1-15. ([PDF](http://hczdavid.github.io/files/post_paper.pdf))
 3. Kang, Kai, **Caizhi Huang**, Yuanyuan Li, David M. Umbach, and Leping Li. "CDSeqR: fast complete deconvolution for gene expression data from bulk tissues." BMC bioinformatics 22, no. 1 (2021): 1-12. (**Co-first author**; [PDF](http://hczdavid.github.io/files/cdseq_paper.pdf))
 4. Paiboonrungruang, Chorlada, Emily Simpson, Zhaohui Xiong, **Caizhi Huang**, Jianying Li, Yahui Li, and Xiaoxin Chen. "Development of targeted therapy of NRF2high esophageal squamous cell carcinoma." Cellular signalling 86 (2021): 110105. ([PDF](http://hczdavid.github.io/files/nrf2-main.pdf))
