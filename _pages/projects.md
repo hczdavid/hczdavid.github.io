@@ -11,7 +11,7 @@ redirect_from:
 
 <img src="http://hczdavid.github.io/images/project1.png" alt="projects" width="400"/>
 
-### [Project 2: Meta-Analysis Reveals the Vaginal Microbiome is a Better Predictor of Earlier Than Later Preterm Birth](http://hczdavid.github.io/projects/project2) ([Github](https://github.com/hczdavid/metaManuscript); [Poster](http://hczdavid.github.io/files/symposium.pdf))
+### [Project 2: Meta-Analysis Reveals the Vaginal Microbiome is a Better Predictor of Earlier Than Later Preterm Birth](http://hczdavid.github.io/projects/project2) ([Github](https://github.com/hczdavid/metaManuscript); [Preprint](https://www.medrxiv.org/content/10.1101/2022.09.26.22280389v1); [Poster](http://hczdavid.github.io/files/symposium.pdf))
 
 <img src="http://hczdavid.github.io/images/sum_plot.png" alt="projects" width="400"/>
 
