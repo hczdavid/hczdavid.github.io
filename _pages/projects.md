@@ -23,7 +23,7 @@ redirect_from:
 
 ### [Project 4: Temporal Association Analysis Using Functional Models for Sparse Longitudinal Microbiome Data ](http://hczdavid.github.io/projects/project4)
 
-<img src="http://hczdavid.github.io/images/cdseq.png" alt="projects" width="400"/>
+<img src="http://hczdavid.github.io/images/fda.png" alt="projects" width="400"/>
 
 ### [Project 5: CDSeqR: Fast Complete Deconvolution for Gene Expression Data from Bulk Tissues](http://hczdavid.github.io/projects/project5) ([Paper (co-first author)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04186-5) ; [Github](https://github.com/hczdavid/CDSeq))
 
