@@ -33,12 +33,13 @@ redirect_from:
 
 ## Other projects:
 
-  * Terrain identification from IMU streams using an recurrent neural network
+  * [Terrain identification from IMU streams using an recurrent neural network](http://hczdavid.github.io/files/rnn.pdf)
+  * [Analysis of longitudinal clinical trial studies of diladopram treatment for depression in the elderly](http://hczdavid.github.io/files/longitudinal.pdf)
   * Investigate the effect of the electric cigarette using PATH longitudinal data set 
   * Identifying clinical parameters that are associated with the severity of COVID-19 infection
   * Accelerating biological discovery by multi-omics-based analysis
   * A pseudo-value approach to compare different generations of multivalent vaccines
-  * Analysis of longitudinal clinical trial studies of diladopram treatment for depression in the elderly
+ 
 
   
   
