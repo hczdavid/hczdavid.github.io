@@ -18,14 +18,14 @@ Please visit my [Google Scholar](https://scholar.google.com/citations?user=UwKQb
 
 **Presentations and Seminars**
 
-* Joint Statistical Meetings (poster; 2022)
-* UNC microbiome seminar (20-min talk; 2022)
+* Joint Statistical Meetings (poster, 2022)
+* UNC microbiome seminar (20-min talk, 2022)
 * PRIME-TR (MD Anderson) Virtual Microbiome Meeting (30-min talk, 2022)
-* NCSU Graduate symposium (poster; 2022)
+* NCSU Graduate symposium (poster, 2022)
 * Bioinformatics Symposium (2 talks and 1 poster, 2020-2022)
-* CSHL microbiome conference (poster; 2021)
-* NCSU Microbiome monthly meeting (30-min talk; 2021)
-* CVM research day (3-min talk, 2020)
+* CSHL microbiome conference (poster, 2021)
+* NCSU Microbiome monthly meeting (30-min talk, 2021)
+* ncsu CVM research day (3-min talk, 2020)
 
 
 
