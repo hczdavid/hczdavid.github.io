@@ -5,7 +5,7 @@ permalink: /projects/project2
 author_profile: true
 ---
 
-## Project 2: Meta-Analysis Reveals the Vaginal Microbiome is a Better Predictor of Earlier Than Later Preterm Birth ([Github](https://github.com/hczdavid/metaManuscript); [Preprint](https://www.medrxiv.org/content/10.1101/2022.09.26.22280389v1); [Poster](http://hczdavid.github.io/files/symposium.pdf))
+## Project 2: Meta-Analysis Reveals the Vaginal Microbiome is a Better Predictor of Earlier Than Later Preterm Birth ([Github](https://github.com/hczdavid/metaManuscript); [Paper](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-023-01702-2); [Poster](http://hczdavid.github.io/files/symposium.pdf))
 
 **Background**: High-throughput sequencing methods to study the vaginal microbiome has yielded intriguing potential relationships between the vaginal microbiome and preterm birth (PTB; live birth prior to 37 weeks of gestation). However, results across studies have been inconsistent. 
 
